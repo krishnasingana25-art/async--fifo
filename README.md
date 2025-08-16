@@ -1,7 +1,7 @@
 # async--fifo
 Verilog implementation of a dual-clock asynchronous FIFO (Gray code + 2FlipFlop CDC)
 
-# Dual-Clock Asynchronous FIFO (Vivado-ready)
+# Dual-Clock Asynchronous FIFO 
 
 ### Features
 - Verilog RTL, synthesizable in Xilinx Vivado
