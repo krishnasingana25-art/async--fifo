@@ -27,7 +27,7 @@ module fifo_assertions #(
     input  logic [DSIZE-1:0] wdata,
     input  logic [DSIZE-1:0] rdata
 );
-
+    // changed 
     //==========================================================================
     // 1. FLAG PROPERTIES — WRITE CLOCK DOMAIN
     //==========================================================================
